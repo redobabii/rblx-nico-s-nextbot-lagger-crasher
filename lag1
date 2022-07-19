@@ -1,0 +1,11 @@
+Copy this and paste ur script.
+
+
+
+
+
+
+
+while task.wait() do
+game:GetService("ReplicatedStorage").events.respawnchar:FireServer()
+end
